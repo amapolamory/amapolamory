@@ -17,8 +17,5 @@
 - ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) 
 - ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 - ![Slack](https://img.icons8.com/color/48/000000/slack-new.png)
-
-
-
 <img src=https://www.freepik.com/premium-vector/cute-shiba-inu-dog-with-laptop-cartoon-icon-illustration_11759973.htm align = "right">
 
