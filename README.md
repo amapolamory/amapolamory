@@ -17,5 +17,5 @@
 - ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) 
 - ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 - ![Slack](https://img.icons8.com/color/48/000000/slack-new.png)
-  ![dog](C:\Users\Amapola\OneDrive\Escritorio\readme\ShibaWFH.png )
+  ![dog](C:\Users\Amapola\OneDrive\Escritorio\readme\ShibaWFH.png)
 
