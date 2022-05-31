@@ -4,7 +4,7 @@
 
 - 📚 Estudié en Laboratoria.
 - 🎸 Amo tocar la guitarra.
-- 🏞️ Me encanta viajar  conocer nuevos lugares
+- 🏞️ Me encanta viajar a conocer nuevos lugares
 - ⚛️ Actualmente estoy aprendiendo REACT.
 
 #### Tecnologías ⌨️
